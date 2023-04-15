@@ -34,6 +34,7 @@ jobs:
         run: |
           npm i -g hexo-cli
           npm i
+          npm install hexo-renderer-pug hexo-renderer-stylus --save
       - name: 部署 hexo
         run: |
           hexo clean && hexo generate && hexo deploy
