@@ -743,8 +743,9 @@ subtitle:
   enable: false
   # Typewriter Effect (打字效果)
   effect: true
-  # Customize typed.js (配置typed.js)
-  # https://github.com/mattboldt/typed.js/#customization
+   startDelay: 300 # time before typing starts in milliseconds
+  typeSpeed: 150 # type speed in milliseconds
+  backSpeed: 50 # backspacing speed in milliseconds
   typed_option:
   # source 調用第三方服務
   # source: false 關閉調用
