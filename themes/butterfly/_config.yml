@@ -166,11 +166,11 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
+    - img: https://i.imgtg.com/2023/04/16/XRgcM.jpg
+      link:
+      text: 微信
     # - img: /img/alipay.jpg
     #   link:
     #   text: alipay
