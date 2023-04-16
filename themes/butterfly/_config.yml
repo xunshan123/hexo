@@ -51,7 +51,7 @@ disable_top_img: false
 index_img: https://i.imgtg.com/2023/04/16/Xmz3S.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: https://i.imgtg.com/2023/04/16/Xmz3S.jpg
 
 # The banner image of archive page
 archive_img:
