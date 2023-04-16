@@ -364,8 +364,11 @@ local_search:
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # 如果没有查到内容相关内容显示
-
-# Docsearch
+hr_icon:
+  enable: true
+  icon: '\f197' # the unicode value of Font Awesome icon
+  icon-top: -10px# Docsearch
+  
 docsearch:
   enable: false
   appId:
