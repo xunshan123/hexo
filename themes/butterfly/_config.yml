@@ -86,7 +86,11 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+     - https://i.imgtg.com/2023/04/16/XJ3ot.jpg
+     - https://i.imgtg.com/2023/04/16/XJwGj.jpg
+     - https://i.imgtg.com/2023/04/16/XPM3p.jpg
+     - https://i.imgtg.com/2023/04/16/XPaiU.jpg
+     - https://i.imgtg.com/2023/04/16/XPotY.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
