@@ -31,7 +31,7 @@ code_word_wrap: false
 #   icon: link || the description || color
 social:
     fab fa-qq: https://i.imgtg.com/2023/04/16/XRNXU.jpg || QQ || "#hdhfbb"
-
+    fas fa-envelope: somjipe22711@outlook.com || Email || "#000000"
 # Image (圖片設置)
 # --------------------------------------
 
