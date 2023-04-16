@@ -12,6 +12,9 @@ menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
+  站点：/ || fa-globe
+    netlify站点：https://monumental-rugelach-8f59e5.netlify.app/ ||fa-paper-plane
+    github站点：https://xiatianpe.github.io/ || fa-github
   分类: /categories/ || fas fa-folder-open
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
