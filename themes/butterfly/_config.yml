@@ -745,6 +745,7 @@ subtitle:
   effect: true
   # Customize typed.js (配置typed.js)
   # https://github.com/mattboldt/typed.js/#customization
+  loop: true
   typed_option:
   # source 調用第三方服務
   # source: false 關閉調用
