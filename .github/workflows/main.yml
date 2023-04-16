@@ -35,6 +35,7 @@ jobs:
           npm i -g hexo-cli
           npm i
           npm install hexo-renderer-pug hexo-renderer-stylus --save
+          npm install hexo-generator-search --save
       - name: 部署 hexo
         run: |
           hexo clean && hexo generate && hexo deploy
