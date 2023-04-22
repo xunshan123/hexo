@@ -12,14 +12,12 @@ menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
-  清单||fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-  分类: /categories/ || fas fa-folder-open
-  友链: /link/ || fas fa-link
   留言板: /messageboard/ || fa fa-paper-plane
   菜单 || fa fa-list:
     关于: /about/ || fas fa-heart
-    放映厅: /video/ || fa-solid fa-circle-play
+    分类: /categories/ || fas fa-folder-open
+    友链: /link/ || fas fa-link
+    音乐: /music/ || fas fa-music
 # Code Blocks (代碼相關)
 # --------------------------------------
 
