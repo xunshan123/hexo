@@ -485,7 +485,7 @@ facebook_comments:
 twikoo:
   envId: https://pian.zeabur.app/
   region:
-  visitor: false
+  visitor: true
   option:
 
 # Giscus
