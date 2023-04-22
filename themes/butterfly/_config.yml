@@ -761,7 +761,7 @@ subtitle:
     - Never put off till tomorrow what you can do today
 
 # Loading Animation (加載動畫)
-preloader:
+preloader: true
   enable: false
   # source
   # 1. fullpage-loading
@@ -769,6 +769,7 @@ preloader:
   source: 1
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
+  load_style: default
 
 # wordcount (字數統計)
 # see https://butterfly.js.org/posts/ceeb73f/#字數統計
