@@ -19,7 +19,7 @@ menu:
   留言板: /messageboard/ || fa fa-paper-plane
   菜单 || fa fa-list:
     关于: /about/ || fas fa-heart
-
+    放映厅: /video/ || fa-solid fa-circle-play
 # Code Blocks (代碼相關)
 # --------------------------------------
 
