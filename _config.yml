@@ -127,3 +127,15 @@ menu:
     电影: /movies/ || fas fa-video
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
+  
+  # Artitalk
+# see https://artitalk.js.org/
+artitalk:
+  enable: true
+  appId: w85CEuazsioS2ggZgOCarYuA-MdYXbMMI
+  appKey: fgaDPyT1vQfOWbmGRtVL9QVt
+  path:
+  js:
+  option:
+  front_matter:
+
