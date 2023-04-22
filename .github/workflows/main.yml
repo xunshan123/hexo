@@ -37,6 +37,7 @@ jobs:
           npm install hexo-renderer-pug hexo-renderer-stylus --save
           npm install hexo-generator-search --save
           npm uninstall hexo-butterfly-artitalk
+          npm install hexo-neat --save
       - name: 部署 hexo
         run: |
           hexo clean && hexo generate && hexo deploy
