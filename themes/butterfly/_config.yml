@@ -16,6 +16,7 @@ menu:
     音乐: /music/ || fas fa-music
   分类: /categories/ || fas fa-folder-open
   友链: /link/ || fas fa-link
+  留言板: /messageboard/ || fa fa-paper-plane
   关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
