@@ -6,4 +6,13 @@ title: 音乐
 type: music
 updated: Sat, 29 Apr 2023 08:07:11 GMT
 ---
-<div id="aplayer-uxAIfEUs" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"></div>
+```
+<!-- APlayer -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<div id="aplayer"></div>
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<!-- Meting plugins of APlayer -->
+<script src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script>
+```
+
+**<meting-js server="netease" type="playlist" id="60198">**</meting-js>
