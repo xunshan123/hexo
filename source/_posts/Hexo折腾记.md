@@ -2,12 +2,13 @@
 abbrlink: ''
 categories:
 - - 折腾记
+cover: https://i.imgtg.com/2023/04/29/3efV1.png
 date: '2023-04-29 11:58:32'
 tags:
 - 折腾
 title: Hexo折腾记
 top_img: https://i.imgtg.com/2023/04/29/3efV1.png
-updated: Sat, 29 Apr 2023 04:09:36 GMT
+updated: Sat, 29 Apr 2023 06:30:43 GMT
 ---
 ## 前言
 
@@ -26,7 +27,6 @@ WordPress它虽然好但是需要部署在动态服务器上，我没有太多�
 #### 2.下载Git
 
 点击 [Git下载](https://git-scm.com/download/win)，下载好后双击打开，也是默认一路next。
-
 
 ## 检查安装的Node.js（内置npm） 和 Git 是否安装成功
 
@@ -64,7 +64,6 @@ hexo -v
 ![375Cq.png](https://i.imgtg.com/2023/04/29/375Cq.png)
 
 ![37Tic.png](https://i.imgtg.com/2023/04/29/37Tic.png)
-
 
 此时，可以输入 `hexo server` 生成html静态网页文件
 
