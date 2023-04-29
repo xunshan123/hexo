@@ -16,25 +16,4 @@ updated: Sat, 29 Apr 2023 08:07:11 GMT
 
 <div id='demo2'></div>
 
-{% meting "1974443814" "netease" "song" %}
-
-{% meting "1368754688" "netease" "song" %}
-
-## 3
-
-{% aplayerlist %}
-{
-"music": [
-{
-"id": "1368754688",
-"server": "netease",
-"type": "song",
-},
-{
-"id": "1974443814",
-"server": "netease",
-"type": "song",
-}
-]
-}
-{% endaplayerlist %}
+{% meting "8387176195" "netease" "song" %}
