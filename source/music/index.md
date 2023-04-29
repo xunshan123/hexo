@@ -16,4 +16,4 @@ updated: Sat, 29 Apr 2023 08:07:11 GMT
 
 <div id='demo2'></div>
 
-{% meting "8387176195" "netease" "song" %}
+{% meting "8387176195" "netease" "playlist" %}
