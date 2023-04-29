@@ -34,8 +34,6 @@ jobs:
         run: |
           npm i -g hexo-cli
           npm i
-          npm install hexo-renderer-pug hexo-renderer-stylus --save
-          npm install hexo-generator-search --save
           npm install --save hexo-tag-aplayer
       - name: 部署 hexo
         run: |
