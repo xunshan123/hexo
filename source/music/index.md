@@ -19,3 +19,22 @@ updated: Sat, 29 Apr 2023 08:07:11 GMT
 {% meting "1974443814" "netease" "song" %}
 
 {% meting "1368754688" "netease" "song" %}
+
+## 3
+
+{% aplayerlist %}
+{
+"music": [
+{
+"id": "1368754688",
+"server": "netease",
+"type": "song",
+},
+{
+"id": "1974443814",
+"server": "netease",
+"type": "song",
+}
+]
+}
+{% endaplayerlist %}
