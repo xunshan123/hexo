@@ -118,6 +118,5 @@ addlink:
 
 aplayer:
   meting: true
-  
-{% aplayer "China-Y" "徐梦圆" "https://www.ytmp3.cn/down/59298.mp3" %}
+  asset_inject: false
 
