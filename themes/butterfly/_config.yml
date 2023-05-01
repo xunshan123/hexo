@@ -17,6 +17,7 @@ menu:
   友链: /link/ || fas fa-link
   菜单 || fa fa-list:
     音乐: /music/ || fas fa-music
+  日志: /timeline/ || fa fa-bell
   关于: /about/ || fas fa-heart
 # Code Blocks (代碼相關)
 # --------------------------------------
