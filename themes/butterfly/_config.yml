@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: https://i.imgtg.com/2023/04/16/Xg4ES.png # image
+  logo: #https://i.imgtg.com/2023/04/16/Xg4ES.png # image
   display_title: true
   fixed: false # fixed navigation bar
 
