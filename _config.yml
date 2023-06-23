@@ -4,16 +4,16 @@
 
 # Site
 title: 洵珊の小站
-subtitle: ''
-description: ''
-keywords:
+subtitle: '洵珊のblog'
+description: '不定期更新文章'
+keywords: 洵珊 洵珊のblog 洵珊の小站 洵珊的小站
 author: 洵珊
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://xiatianpe.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
