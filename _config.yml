@@ -119,11 +119,4 @@ addlink:
 aplayer:
   meting: true
 
-nofollow:
-  enable: true
-  field: site
-  exclude:
-    - 'exclude1.com'
-    - 'exclude2.com'
-
     
