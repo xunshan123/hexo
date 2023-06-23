@@ -37,7 +37,6 @@ jobs:
           npm install --save hexo-tag-aplayer
           npm install hexo-renderer-pug hexo-renderer-stylus --save
           npm install hexo-generator-search
-          npm install hexo-filter-nofollow --save
           --save
       - name: 部署 hexo
         run: |
