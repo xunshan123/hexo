@@ -447,8 +447,8 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: #w85CEuazsioS2ggZgOCarYuA-MdYXbMMI
-  appKey:  #fgaDPyT1vQfOWbmGRtVL9QVt
+  appId: 
+  appKey: 
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
@@ -485,7 +485,8 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: #https://pian.zeabur.app/
+  envId:  
+  #https://pian.zeabur.app/
   region:
   visitor: false
   option:
