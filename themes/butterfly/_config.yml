@@ -447,8 +447,8 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: w85CEuazsioS2ggZgOCarYuA-MdYXbMMI
-  appKey: fgaDPyT1vQfOWbmGRtVL9QVt
+  appId: #w85CEuazsioS2ggZgOCarYuA-MdYXbMMI
+  appKey:  #fgaDPyT1vQfOWbmGRtVL9QVt
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
@@ -485,7 +485,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://pian.zeabur.app/
+  envId: #https://pian.zeabur.app/
   region:
   visitor: false
   option:
@@ -521,7 +521,7 @@ artalk:
 
 # Chat Button [recommend]
 # It will create a button in the bottom right corner of website, and hide the origin button
-chat_btn: false
+chat_btn: true
 
 # The origin chat button is displayed when scrolling up, and the button is hidden when scrolling down
 chat_hide_show: false
@@ -548,7 +548,7 @@ daovoice:
 # https://crisp.chat/en/
 crisp:
   enable: false
-  website_id:
+  website_id: 4057f31b-a6b8-49a6-8555-dac90fffc72b
 
 # messenger
 # https://developers.facebook.com/docs/messenger-platform/discovery/facebook-chat-plugin/
