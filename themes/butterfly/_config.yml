@@ -547,7 +547,7 @@ daovoice:
 # crisp
 # https://crisp.chat/en/
 crisp:
-  enable: false
+  enable: true
   website_id: 4057f31b-a6b8-49a6-8555-dac90fffc72b
 
 # messenger
