@@ -103,7 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository:  git@github.com:xiatianPE/xiatianPE.github.io.git
+  repository:  git@github.com:xiatianPE/xunshan123.github.io.git
   branch: mian
 
 # hexo-admin authentification
